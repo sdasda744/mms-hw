@@ -552,6 +552,7 @@ video {
 
 [hidden]:where(:not([hidden="until-found"])) {
   display: none;
+<<<<<<< HEAD
 }
 
 .container {
@@ -1465,4 +1466,6 @@ video {
     font-size: 1rem;
     line-height: 1.5rem;
   }
+=======
+>>>>>>> parent of 295589a (finished-homework)
 }
